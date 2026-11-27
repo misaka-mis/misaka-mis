@@ -15,4 +15,4 @@
 | 9 | Markdown 公众号一键排版器 | https://misaka-mis.github.io/markdown-wechat-fmt/ | [markdown-wechat-fmt](https://github.com/misaka-mis/markdown-wechat-fmt) |
 | 10 | Cron 表达式中文解释器 | https://misaka-mis.github.io/cron-cn-explainer/ | [cron-cn-explainer](https://github.com/misaka-mis/cron-cn-explainer) |
 
-- 支持作者 / 定制自动化脚本：https://afdian.com/a/dismuse
+- 微信直付离线模板与工具包（¥1.99 起）：https://misaka-mis.github.io/pay/
